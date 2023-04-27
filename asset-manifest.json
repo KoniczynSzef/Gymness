@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ecb2884.css",
+    "main.js": "/static/js/main.6503470a.js",
+    "static/media/card-2.png": "/static/media/card-2.b3f4cd5d8bc38a3e762f.png",
+    "static/media/card-1.png": "/static/media/card-1.c11abf1bc66d9dfa6bd5.png",
+    "static/media/card-4.png": "/static/media/card-4.e7c1ffe9454e8b47190b.png",
+    "static/media/card-5.png": "/static/media/card-5.269ea751c5c705d4573a.png",
+    "static/media/background-bmi.png": "/static/media/background-bmi.8b67a74ef37d5ff20a57.png",
+    "static/media/card-3.png": "/static/media/card-3.bbb94e6fa2caf5417d1d.png",
+    "static/media/card-6.png": "/static/media/card-6.b34a42b39e437d0ae26d.png",
+    "static/media/main-asset.png": "/static/media/main-asset.062139a73aaf3c04037c.png",
+    "static/media/najger.png": "/static/media/najger.47084f36fa113f46ebfa.png",
+    "static/media/gymrat.png": "/static/media/gymrat.8ea6b0588f23051d9e97.png",
+    "static/media/girl.png": "/static/media/girl.686ea3b2318dd2f57ecf.png",
+    "static/media/favicon.ico": "/static/media/favicon.32d6c0ad1721cd264c96.ico",
+    "static/media/person.png": "/static/media/person.ccb5f124761ae8b3d9b2.png",
+    "static/media/training.svg": "/static/media/training.cd18f5bf470bd7c0b59c9cd44a3a716b.svg",
+    "index.html": "/index.html",
+    "main.4ecb2884.css.map": "/static/css/main.4ecb2884.css.map",
+    "main.6503470a.js.map": "/static/js/main.6503470a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ecb2884.css",
+    "static/js/main.6503470a.js"
+  ]
+}
