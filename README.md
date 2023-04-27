@@ -1,4 +1,4 @@
-Gymness
+# Gymness
 Gymness is a fake gym designed to demonstrate how a gym could be designed and operated. This project is purely fictional and is not an actual gym.
 
 Getting Started
